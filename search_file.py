@@ -2,7 +2,7 @@ import sqlite3
 from tabulate import tabulate
 import threading
 
-DB_PATH = r'C:\Users\hp\Desktop\AIAgents\Onsystem\system_files.db'
+DB_PATH = r'system_files.db'
 
 # Shared container to store search results
 results = []
